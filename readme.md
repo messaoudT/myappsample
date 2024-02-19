@@ -1,4 +1,4 @@
-#MyApp
-<h1>This is a nice App</h1>
+# MyApp
+## My app is cool 
 
 This is my App
